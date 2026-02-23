@@ -118,11 +118,11 @@ fun SearchScreen(navController: NavController) {
                         return@Button
                     }
 
-                    // ⭐ CLOSE KEYBOARD FIRST
+                    //  close keyboard first
                     focusManager.clearFocus()
                     keyboardController?.hide()
 
-                    // ⭐ THEN NAVIGATE
+                    // navigate
                     navController.navigate("profile/$username")
                 },
                 modifier = Modifier.fillMaxWidth()
