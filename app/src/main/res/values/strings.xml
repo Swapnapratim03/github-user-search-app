@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">GithubUserSearch</string>
+    <string name="github">GitHub</string>
+    <string name="user_search">User Search</string>
+    <string name="enter_github_username">Enter GitHub username</string>
+    <string name="search">Search</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="search_placeholder">Search for GitHub users by username</string>
+    <string name="profile">Profile</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repos">Repos</string>
+    <string name="no_bio_available">No bio available</string>
+    <string name="user_not_found">User not found</string>
 </resources>
