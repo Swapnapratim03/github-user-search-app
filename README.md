@@ -1,42 +1,35 @@
-# GitHub User Search App 
+# GitHub User Search App
 
-This is a simple Android application built using Kotlin and Jetpack Compose that lets you search for GitHub users and explore their profile details. You can view information like followers, following count, bio, and public repositories in a clean and easy-to-use interface.
+This is a simple Android application built using **Java**, **XML Layouts**, and **View Binding** that allows users to search for GitHub profiles and explore their details. Users can view profile information such as bio, followers, following count, public repositories, and avatar in a clean and user-friendly interface.
 
-The goal of this project was to practice modern Android development using MVVM architecture and REST API integration.
+The goal of this project was to practice Android development using **MVVM architecture**, **Retrofit**, and the **GitHub REST API**.
 
----
-
-##  Features
+## Features
 
 - Search for any GitHub user by username
 - View profile information including name, bio, and avatar
 - Check followers and following count
-- Browse public repositories
-- See recent search suggestions
-- Smooth and responsive UI built with Compose
+- View public repositories count
+- Recent search history suggestions
+- Clean and responsive Material Design UI
 
----
+## Tech Stack
 
-##  Tech Stack
-
-- Kotlin
-- Jetpack Compose
+- Java
+- XML Layouts
+- View Binding
 - MVVM Architecture
-- Retrofit for networking
+- Retrofit
 - GitHub REST API
+- Navigation Component
 
----
+## How to Run the Project
 
-##  How to Run the Project
+1. Clone this repository.
+2. Open the project in Android Studio.
+3. Let Gradle sync complete.
+4. Build and run the app on an emulator or physical Android device.
 
-1. Clone this repository to your local machine
-2. Open the project in Android Studio
-3. Let Gradle sync complete
-4. Run the app on an emulator or physical device
+## Author
 
----
-
-##  Author
-
-  Swapnapratim Ghosh
-
+**Swapnapratim Ghosh**
